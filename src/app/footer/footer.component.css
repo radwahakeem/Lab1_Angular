@@ -1,0 +1,21 @@
+footer{
+    background-color: rgba(0, 0, 0, 0.916);
+    color: white;
+  }
+  
+  button{
+    width: 180px;
+    border:1px solid black;
+    padding: 0.5rem;
+    background-color: transparent;
+    color: white;
+  }
+  .right-side p{
+    text-align: end;
+  
+  }
+.icon{
+    margin-left: 210px;
+}
+
+  

@@ -1,0 +1,33 @@
+.skills{
+    background-color: rgba(0, 0, 0, 0.735);
+  }
+  
+  h2{
+    color: white;
+    font-size: 48px;
+    text-shadow: rgba(0, 0, 0, 0.713) 3px 3px 3px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  p{
+    color: white;
+    font-size: 15px;
+  }
+.text-center{
+    margin-top: 200px;
+}
+
+
+
+.skills {
+   text-align: right; 
+   padding-top: 10px; 
+   padding-bottom: 10px; 
+   color: white; 
+ }
+ .html {width: 100%; background-color: gray;} 
+ .css {width: 90%; background-color: gray;} 
+ .js {width: 65%; background-color: gray;}
+ .react {width: 100%; background-color: gray;}
+ .node {width: 70%; background-color: gray;}
+ .wordpress {width: 65%; background-color: gray;}
